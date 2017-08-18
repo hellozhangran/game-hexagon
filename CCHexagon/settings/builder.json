@@ -1,0 +1,27 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.hello_world",
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "title": "Hexagon",
+  "webOrientation": "auto",
+  "includeSdk": [
+    "anysdk"
+  ],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "oauthLoginServer": "",
+  "appKey": "",
+  "appSecret": "",
+  "privateKey": "",
+  "renderMode": "0",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false
+}
